@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Kevin!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Home Lab Projects</b>
+  - [Cybersecurity Home Lab | Linux Purple & Kali Linux](https://github.com/KevinRitz77/LABURL)
+  - [SOC Analyst Home Lab | Splunk Platform](https://github.com/KevinRitz77/LABURL)
+  - 
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: 
+[linkedin]: 
 
 <!--
-**KevinRitz77/KevinRitz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
